@@ -27,4 +27,5 @@ router.get('/dashboard', ensureAuth, async (req, res) => {
     }
 })
 
+// module.exports spits out something that we can use somewhere else
 module.exports = router
