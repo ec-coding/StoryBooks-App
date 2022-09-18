@@ -1,4 +1,4 @@
-<h1>StoryBooks</h1>
+<h1 align="center">StoryBooks</h1>
 <h2 align="center">A full-stack blogging app.</h2>
 <p align="center">
   <a href="http://ec-storybooks-app.herokuapp.com/" target="_blank">
