@@ -1,6 +1,9 @@
 <h1 align="center">StoryBooks</h1>
 <h2 align="center">A full-stack blogging app.</h2>
 <p align="center">
+  <img src="https://github.com/ec-coding/StoryBooks-App/blob/main/StoryBooks%20Banner.png">
+</p>
+<p align="center">
   <a href="http://ec-storybooks-app.herokuapp.com/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=23555f&style=plastic&logo=react&logo-color=white"/>
   </a>
