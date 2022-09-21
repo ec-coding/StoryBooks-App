@@ -2,10 +2,6 @@ p {
     margin: 10px 0 !important;
 }
 
-body {
-    background-image: linear-gradient(rgb(35, 65, 150), rgb(50, 85, 175), rgb(75, 110, 205), rgb(160, 185, 250), rgb(75, 110, 205), rgb(50, 85, 175), rgba(35, 65, 150));
-}
-
 .login-container {
     width: 600px;
     margin-top: 200px;
@@ -18,7 +14,7 @@ body {
 
 .card {
     background-image: linear-gradient(to right, rgba(82, 82, 82), rgb(112, 112, 112, 0.5), darkgrey, lightgrey, white, white, lightgrey, darkgrey, rgb(112, 112, 112, 0.5), rgba(82, 82, 82));
-    border: 5px solid rgb(48, 48, 48);
+    border: 5px solid rgb(0, 0, 0);
     border-radius: 5px;
     padding-top: 30px;
     height: 500px;
