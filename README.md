@@ -2,10 +2,10 @@
 <h2 align="center">A full-stack blogging app.</h2>
 <p align="center">
   <a href="http://ec-storybooks-app.herokuapp.com/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=23555f&style=plastic&logo=react&logo-color=white"/>
+    <img src="https://github.com/ec-coding/StoryBooks-App/blob/main/StoryBooks%20Banner.png">
   </a>
 </p>
-
+<br />
 
 <h2>PROJECT SUMMARY:</h2>
 <table bordercolor="#66b2b2">
@@ -17,6 +17,14 @@ This app was created with Google authentication technology, and also follows sta
 
 Mobile-friendly.
 
+Technologies used:
+1. Node.js
+2. Handlebars(hbs) Templating Engine
+3. Mongoose
+4. CSS
+5. JavaScript
+6. Google OAuth 2.0
+  
 </tr>
 </table>
 
