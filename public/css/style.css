@@ -3,21 +3,9 @@ p {
 }
 
 .login-container {
-    width: 600px;
-    margin-top: 200px;
+    width: 400px;
+    margin-top: 50px;
     text-align: center;
-}
-
-.divider {
-    background-color: black;
-}
-
-.card {
-    background-image: linear-gradient(to right, rgba(82, 82, 82), rgb(112, 112, 112, 0.5), darkgrey, lightgrey, white, white, lightgrey, darkgrey, rgb(112, 112, 112, 0.5), rgba(82, 82, 82));
-    border: 5px solid rgb(0, 0, 0);
-    border-radius: 5px;
-    padding-top: 30px;
-    height: 500px;
 }
 
 .fa-small {
