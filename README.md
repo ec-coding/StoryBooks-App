@@ -1,5 +1,5 @@
 <h1 align="center">StoryBooks</h1>
-<h2 align="center">A full-stack blogging app.</h2>
+<h2 align="center">A full-stack blogging app</h2>
 <p align="center">
   <a href="http://ec-storybooks-app.herokuapp.com/" target="_blank">
     <img src="https://github.com/ec-coding/StoryBooks-App/blob/main/StoryBooks%20Banner.png">
